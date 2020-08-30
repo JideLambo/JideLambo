@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi beautiful people and bots 👋
 
 <!--
 **JideLambo/JideLambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jide and a product designer 🎨 with skills in HTML, CSS, javaScript and UI design. I currently work at Nordcloud where my team makes sure cloud technology is user-friendly and usable for our customers.
+
+### Check out my work:
+- 📫 https://guidelagos.com
+- 📹 https://www.youtube.com/jidelambo
+
+### Contact me via mail
+- 📫 jidelambo@gmail.com
