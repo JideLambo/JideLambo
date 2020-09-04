@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jide and a product designer 🎨 with skills in HTML, CSS, javaScript and UI design. I currently work at Nordcloud where my team makes sure cloud technology is user-friendly and usable for our customers.
+I'm Jide and a product designer 🎨 with skills in HTML, CSS, JavaScript, React, Vue and UI design. I currently work at Nordcloud with the design team and we make sure cloud technology is user-friendly and usable for our customers.
 
 ### Check out my work:
 - 📫 https://guidelagos.com
