@@ -1,4 +1,4 @@
-### Hi beautiful people and bots 👋
+### Hi beautiful people and good intent bots 👋
 
 <!--
 **JideLambo/JideLambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
