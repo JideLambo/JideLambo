@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jide and a software product designer 🎨 with frontend development skills.
+I'm Jide and a software product designer 🎨 with development skills.
 
 ### Check out my portfolio:
 - 📫 https://jidelambo.com
