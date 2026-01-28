@@ -15,12 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jide and a software product designer 🎨 with development skills.
+I'm Jide and a product design engineer 🎨.
 
-### Check out my portfolio:
-- 📫 https://jidelambo.com
-- ✍🏼 https://medium.com/@jidelambo
-- 📹 https://www.youtube.com/jidelambo
+### Building autonomous agents to help SaaS businesses predict churn and act on them:
+- 📫 https://firstdistro.com
 
 ### Contact me via mail
-- 📫 jidelambo@gmail.com
+- 📫 jide@firstdistro.com
