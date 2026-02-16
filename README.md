@@ -1,4 +1,4 @@
-### Hi beautiful people and good intent bots 👋
+## Hi, I'm Jide 👋
 
 <!--
 **JideLambo/JideLambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jide and a product design engineer 🎨.
+I'm Jide, founder of https://firstdistro.com and a product design engineer 🎨.
 
-### Building autonomous agents to help SaaS businesses predict churn and act on them:
+#### Building autonomous agents to help SaaS businesses predict churn and act on them:
 - 📫 https://firstdistro.com
 
-### Contact me via mail
+#### Contact me via mail
 - 📫 jide@firstdistro.com
+
+#### Projects
+- https://firstdistro.com
+- feedback layer (wip)
+- https://wonderstand.ai
+- https://tokiapp.ai
+
