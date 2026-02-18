@@ -26,5 +26,5 @@ Design engineer. Builder. FirstDistro Founder.
 - https://wonderstand.ai - AI sales assistant for e-commerce owners.
 
 #### Legacy projects
-- https://tokiapp.ai
+- https://tokiapp.ai - Personal AI assistants for everyone.
 
