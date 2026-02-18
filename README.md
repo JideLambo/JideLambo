@@ -21,9 +21,9 @@ Design engineer. Builder. FirstDistro Founder.
 - 📫 jide@firstdistro.com
 
 #### Current projects
-- https://firstdistro.com - Building autonomous agents to help SaaS businesses predict churn and act on the
-- https://uselay.com
-- https://wonderstand.ai
+- https://firstdistro.com - Autonomous agents that helps SaaS predict churn and act on it automatically.
+- https://uselay.com - Anyone on your app clicks what's wrong and tells you why.
+- https://wonderstand.ai - AI sales assistant for e-commerce owners.
 
 #### Legacy projects
 - https://tokiapp.ai
