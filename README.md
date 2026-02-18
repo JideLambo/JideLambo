@@ -15,17 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jide, founder of https://firstdistro.com and a product design engineer 🎨.
-
-#### Building autonomous agents to help SaaS businesses predict churn and act on them:
-- 📫 https://firstdistro.com
+Design engineer. Builder. FirstDistro Founder. 
 
 #### Contact me via mail
 - 📫 jide@firstdistro.com
 
-#### Projects
-- https://firstdistro.com
-- feedback layer (wip)
+#### Current projects
+- https://firstdistro.com - Building autonomous agents to help SaaS businesses predict churn and act on the
+- https://uselay.com
 - https://wonderstand.ai
+
+#### Legacy projects
 - https://tokiapp.ai
 
