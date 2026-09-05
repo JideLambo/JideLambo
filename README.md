@@ -23,8 +23,8 @@ Design engineer. Builder. FirstDistro Founder.
 #### Current projects
 - https://firstdistro.com - Autonomous agents that helps SaaS predict churn and act on it automatically.
 - https://uselay.com - Anyone on your app clicks what's wrong and tells you why.
-- https://wonderstand.ai - AI sales assistant for e-commerce owners.
 
 #### Legacy projects
+- https://wonderstand.ai - AI sales assistant for e-commerce owners.
 - https://tokiapp.ai - Personal AI assistants for everyone.
 
