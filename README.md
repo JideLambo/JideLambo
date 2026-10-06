@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 Design engineer. Builder. FirstDistro Founder. 
 
 #### Contact me via mail
-- 📫 jide@firstdistro.com
+- 📫 jidelambo@gmail.com
 
 #### Current projects
+- https://wonderstand.ai - AI agents on iMessage for realtor's business.
 - https://firstdistro.com - Autonomous agents that helps SaaS predict churn and act on it automatically.
 - https://uselay.com - Anyone on your app clicks what's wrong and tells you why.
 
 #### Legacy projects
-- https://wonderstand.ai - AI sales assistant for e-commerce owners.
 - https://tokiapp.ai - Personal AI assistants for everyone.
 
