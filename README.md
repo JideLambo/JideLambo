@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Design engineer. Builder. FirstDistro Founder. 
+Design engineer. Builder. 
 
 #### Contact me via mail
 - 📫 jidelambo@gmail.com
